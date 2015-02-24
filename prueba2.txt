@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 asdaksdjkasdjkasjdk
-=======
-ashdo
->>>>>>> parent of 5164f89... v4
