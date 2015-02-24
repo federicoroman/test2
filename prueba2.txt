@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 fede
 asd
-=======
 asdaksdjkasdjkasjdk
->>>>>>> parent of 758b093... v7
+
