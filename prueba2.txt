@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
-asdaksdjkasdjkasjdk
->>>>>>> parent of 758b093... v7
+fede
